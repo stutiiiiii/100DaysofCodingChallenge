@@ -8,4 +8,5 @@
 <h2><b>Day 6-</b> Fibonacci number</h2>
 <h2><b>Day 7-</b> Fizz Buzz</h2>
 <h2><b>Day 8-</b> Two Sum</h2>
+<h2><b>Day 9-</b> Contains Duplicate</h2>
 
