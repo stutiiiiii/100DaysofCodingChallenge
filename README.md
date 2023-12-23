@@ -10,4 +10,6 @@
 <h2><b>Day 8-</b> Two Sum</h2>
 <h2><b>Day 9-</b> Contains Duplicate</h2>
 <h2><b>Day 10-</b> Unique Number of Occurrences</h2>
+<h2><b>Day 11-</b> Find First and Last Position of Element in Sorted Array </h2>
+<h2><b>Day 12-</b> Peak index In a Mountain Array</h2>
 
