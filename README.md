@@ -12,6 +12,8 @@
 <h2><b>Day 10-</b> Unique Number of Occurrences</h2>
 <h2><b>Day 11-</b> Find First and Last Position of Element in Sorted Array </h2>
 <h2><b>Day 12-</b> Peak index In a Mountain Array</h2>
-<h2><b>Day 13-</b> Find pivot index</h2>
-<h2><b>Day 14-</b> Find all Duplicates in an Array</h2>
+<h4><b>Day 13-</b> Find pivot index</h4>
+<h4><b>Day 14-</b> Find all Duplicates in an Array</h4>
+<h4><b>Day 15-</b>Capacity to Ship packages within D Days</h4>
+
 
