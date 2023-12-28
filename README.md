@@ -14,6 +14,8 @@
 <h4><b>Day 12-</b> Peak index In a Mountain Array</h4>
 <h4><b>Day 13-</b> Find pivot index</h4>
 <h4><b>Day 14-</b> Find all Duplicates in an Array</h4>
-<h4><b>Day 15-</b>Capacity to Ship packages within D Days</h4>
+<h4><b>Day 15-</b> Capacity to Ship packages within D Days</h4>
+<h4><b>Day 16-</b> Spiral matrix</h4>
+<h4><b>Day 17-</b> Valid Palindrome</h4>
 
 
