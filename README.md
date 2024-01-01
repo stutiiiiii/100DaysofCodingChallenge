@@ -19,5 +19,7 @@
 <h4><b>Day 17-</b> Valid Palindrome</h4>
 <h4><b>Day 18-</b> Search a 2D Matrix</h4>
 <h4><b>Day 19-</b> Check if array is sorted and rotated</h4>
+<h4><b>Day 20-</b> Best time to Buy and Sell Stock</h4>
+
 
 
