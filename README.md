@@ -22,6 +22,7 @@
 <h4><b>Day 20-</b> Best time to Buy and Sell Stock</h4>
 <h4><b>Day 21-</b> Valid Anagram</h4>
 <h4><b>Day 22-</b> Remove all Occurrences of a Substring</h4>
+<h4><b>Day 23-</b> Print like a wave (coding ninjas)</h4>
 
 
 
