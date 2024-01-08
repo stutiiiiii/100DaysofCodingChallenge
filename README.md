@@ -23,6 +23,7 @@
 <h4><b>Day 21-</b> Valid Anagram</h4>
 <h4><b>Day 22-</b> Remove all Occurrences of a Substring</h4>
 <h4><b>Day 23-</b> Print like a wave (coding ninjas)</h4>
+<h4><b>Day 23-</b> Permutation in String</h4>
 
 
 
